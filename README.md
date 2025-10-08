@@ -1,10 +1,10 @@
-Trabalho de Circuitos Digitais 
+#Trabalho de Circuitos Digitais 
 
-Autores: 
+##Autores: 
 MARIA LUIZA ALVES LOPES
 PAULO HENRIQUE DANTAS MEDEIROS
 
-Problema 01: 
+###Problema 01: 
 A)x = A'B + C
 
 | A | B | C | X |
