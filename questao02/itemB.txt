@@ -1,0 +1,21 @@
+Circuito B
+Expressão Lógica Simplificada: X = B'C' + A'B'D
+
+Tabela Verdade:
+A	B	C	D	X
+0	0	0	0	1
+0	0	0	1	1
+0	0	1	0	0
+0	0	1	1	1
+0	1	0	0	0
+0	1	0	1	0
+0	1	1	0	0
+0	1	1	1	0
+1	0	0	0	1
+1	0	0	1	1
+1	0	1	0	0
+1	0	1	1	0
+1	1	0	0	0
+1	1	0	1	0
+1	1	1	0	0
+1	1	1	1	0

@@ -1,0 +1,12 @@
+Expressão: X = A ⊕ B ⊕ C
+
+Tabela Verdade:
+A	B	C	X
+0	0	0	0
+0	0	1	1
+0	1	0	1
+0	1	1	0
+1	0	0	1
+1	0	1	0
+1	1	0	0
+1	1	1	1

@@ -4,7 +4,7 @@
 MARIA LUIZA ALVES LOPES <br>
 PAULO HENRIQUE DANTAS MEDEIROS
 
-### Problema 01: 
+### Questão 01: 
 A)x = A'B + C
 
 | A | B | C | X |
@@ -78,9 +78,9 @@ C) y = AB + BC + AC
 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 |
 
-### Problema 02: 
+### Questão 02: 
 
-#### Circuito A <br>
+#### Circuito A 
 I) Expressão lógica simplificada: ABC
 
 II) 
@@ -95,7 +95,7 @@ II)
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 1 |
 
-#### Circuito B <br>
+#### Circuito B 
 I) Expressão Lógica Simplificada: B'C' + A'B'D
 
 II) 
